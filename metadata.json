@@ -1,0 +1,8 @@
+{
+  "name": "Horyaal Digital Agency",
+  "description": "Horyaal Digital Agency waxay ganacsiyada ka caawisaa Digital Marketing, Social Media Advertising, Marketing Analytics, Branding & Content Creation, iyo Website & Online Promotion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
